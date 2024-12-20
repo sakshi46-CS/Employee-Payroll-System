@@ -1,0 +1,1 @@
+Developed a payroll system using Java, implementing OOP concepts like inheritance, polymorphism, and abstraction. Managed employee records dynamically with ArrayList and designed salary calculations for full-time and part-time employees. Built a user-friendly console-based menu for adding, removing, and displaying employee details.
